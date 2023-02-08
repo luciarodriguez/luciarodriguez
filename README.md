@@ -8,7 +8,6 @@ I have been working as a full time QA Engineer/Quality Assurance Analyst for the
 
 * 🌍  I'm based in Montevideo, Uruguay
 * ✉️  You can contact me at [lucia@lucia-rodriguez.com](mailto:lucia@lucia-rodriguez.com)
-* 🧠  I'm learning learning FrontEnd development
 
 ### QA Skills
 
