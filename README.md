@@ -4,9 +4,9 @@ Hi 👋 My name is Lucia Rodriguez
 QA Engineer and Technical Writer
 --------------------------------
 
-I have been working as a full time QA Engineer/Quality Assurance Analyst for the past 6 years, both for medical, b2b, logistics, and business-intelligence tools. I am a certified Literary Translator and Interpreter based in Montevideo, Uruguay, with excellent communication and analytical skills. Trilingual (Spanish, English, Portuguese) with an intermediate working knowledge of french. I have more than 10 years experience as a Technical Writer in the business intelligence, airline, and music industries. Experienced in translation, testing, technical writing, editing and copy writing for literary, scientific and technical texts. Customer care experience in airline industry as well as in enterprise mobility.
+I have been working as a full time QA Engineer/Quality Assurance Analyst for the past 6 years, both for medical, b2b, logistics, and business-intelligence tools. I am a certified Literary Translator and Interpreter based in Alicante, Spain, with excellent communication and analytical skills. Trilingual (Spanish, English, Portuguese) with an intermediate working knowledge of french. I have more than 10 years experience as a Technical Writer in the business intelligence, airline, and music industries. Experienced in translation, testing, technical writing, editing and copy writing for literary, scientific and technical texts. Customer care experience in airline industry as well as in enterprise mobility.
 
-* 🌍  I'm based in Montevideo, Uruguay
+* 🌍  I'm based in Alicante, Spain
 * ✉️  You can contact me at [rodriguez.malucia@gmail.com](mailto:rodriguez.malucia@gmail.com)
 
 ### QA Skills
